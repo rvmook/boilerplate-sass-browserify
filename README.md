@@ -9,7 +9,7 @@ gulp, SASS and Browserify.
 Setup
 -----
 To run this you'll need [node](https://nodejs.org/) and [gulp](http://gulpjs.com/) installed.
-Running `npm install` in the root of the folder to install all needed dependencies.
+Run `npm install` in the root of the project to install all needed dependencies.
 
 
 
